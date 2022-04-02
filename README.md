@@ -1,16 +1,13 @@
-### Hi there 👋
+###  hi there!  i'm 🗦 𝘱𝘢𝘹 🗧
+⟡  *jack of all trades, having a **lot** of fun*  ⟡
 
-<!--
-**paxgole/paxgole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**welcome to my github! here's some stuff about me:** <br>
+      ‣ cs student @ university of texas at dallas <br>
+      ‣ personal website coming soon! 🖵 <br>
+      ‣ connect with me on [linkedin](https://www.linkedin.com/in/pranjal-pax-gole-4213031b2/)! 🗫 <br>
+      ‣ ☆ pax means peace in latin! ☆ <br>
+      ‣ ♡ currently obsessed with unicode ♡<br>
+      
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\~(˘▾˘\~) thanks for stopping by! come again, everything is a wip, so i hope there's always something cool to see (◜◡◝)🖎
