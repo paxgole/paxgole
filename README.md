@@ -3,7 +3,7 @@
 
 **welcome to my github! here's some stuff about me:** <br>
       ‣ cs student @ university of texas at dallas <br>
-      ‣ personal website coming soon! 🖵 <br>
+      ‣ [personal website](https://paxgole.github.io/paxgole-website/) 🖵 <br>
       ‣ connect with me on [linkedin](https://www.linkedin.com/in/pranjal-pax-gole-4213031b2/)! 🗫 <br>
       ‣ ☆ pax means peace in latin! ☆ <br>
       ‣ ♡ currently obsessed with unicode ♡<br>
